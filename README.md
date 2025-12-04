@@ -33,7 +33,3 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="URL-DA-SUA-IMAGEM" width="350"/>
-</p>
