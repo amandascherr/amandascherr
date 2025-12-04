@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amanda!</h1>
 
-<p align="center"><i>She/Her</i></p>
+<p align="center"><i>Nice to meet you!</i></p>
 
 ---
 
@@ -8,7 +8,7 @@ Computer engineering student @ Unicamp, Brazil. Committed to turning complex pro
 
 ---
 
-### 📚 I'm currently learning **HTML**
+### 📚 I'm currently learning **java**
 
 ### 🌎 Feel free to contact me in: **English, Portuguese, French, or Spanish**
 
@@ -24,6 +24,7 @@ Computer engineering student @ Unicamp, Brazil. Committed to turning complex pro
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
