@@ -4,7 +4,7 @@
 
 ---
 
-Computer engineering student @ Unicamp, Brazil. Committed to turning complex problems into practical solutions through tech and strategic thinking.
+<p align="center">Computer engineering student @ Unicamp, Brazil. Committed to turning complex problems into practical solutions through tech and strategic thinking.<\p>
 
 ---
 
@@ -15,9 +15,13 @@ Computer engineering student @ Unicamp, Brazil. Committed to turning complex pro
 ### 📬 How to reach me:  
 📧 amanda.scherr.caldeira.coelho@gmail.com
 
+### 🔗 Linkedin:
+<a href=www.linkedin.com/in/amandascherr-tech><\a>
+
+
 ---
 
-## You will probably see me using:
+## My stack:
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
