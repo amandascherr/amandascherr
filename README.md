@@ -1,4 +1,4 @@
-<h1 align="center">🐱 Hi there, I'm Thais! 🌈</h1>
+<h1 align="center">Hi there, I'm Amanda!</h1>
 
 <p align="center"><i>She/Her/Elle</i></p>
 
