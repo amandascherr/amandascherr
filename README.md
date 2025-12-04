@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amanda!</h1>
 
-<p align="center"><i>She/Her/Elle</i></p>
+<p align="center"><i>She/Her</i></p>
 
 ---
 
@@ -8,7 +8,7 @@ Computer engineering student @ Unicamp, Brazil. Committed to turning complex pro
 
 ---
 
-### 📚 I'm currently learning **C**
+### 📚 I'm currently learning **HTML**
 
 ### 🌎 Feel free to contact me in: **English, Portuguese, French, or Spanish**
 
@@ -21,11 +21,8 @@ Computer engineering student @ Unicamp, Brazil. Committed to turning complex pro
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
