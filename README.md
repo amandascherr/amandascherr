@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">Computer engineering student @ Unicamp, Brazil. Committed to turning complex problems into practical solutions through tech and strategic thinking.<\p>
+<p align="center">Computer engineering student @ Unicamp, Brazil. Committed to turning complex problems into practical solutions through tech and strategic thinking.
 
 ---
 
@@ -31,5 +31,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
 </p>
-
----
