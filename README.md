@@ -16,7 +16,7 @@
 📧 amanda.scherr.caldeira.coelho@gmail.com
 
 ### 🔗 Linkedin:
-<a href=www.linkedin.com/in/amandascherr-tech><\a>
+🔗  <a href=www.linkedin.com/in/amandascherr-tech>www.linkedin.com/in/amandascherr-tech<\a> 🔗
 
 
 ---
