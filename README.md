@@ -15,7 +15,7 @@
 ### 📬 How to reach me:  
 📧 amanda.scherr.caldeira.coelho@gmail.com
 
-### 🔗 www.linkedin.com/in/amandascherr-tech>www.linkedin.com/in/amandascherr-tech 🔗
+### 🔗 www.linkedin.com/in/amandascherr-tech 🔗
 
 
 ---
